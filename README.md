@@ -2,6 +2,8 @@
 
 > 从 dYdX 到 GMX 到 Hyperliquid —— 链上永续合约的终极形态是什么？本仓库是对 Hyperliquid 的系统性技术拆解，覆盖架构、交易机制、生态、竞争格局和未来方向。
 
+> 📖 **Featured in:** [《为什么 Hyperliquid 赢了链上 perp：一个交易所工程师的架构拆解》](https://blog.frankfu.cloud/posts/hyperliquid-architecture-breakdown/) — 基于本仓库内容写的中文长文，约 8000 字。本仓库是它的延伸阅读资源。
+
 ---
 
 ## 为什么做这个
