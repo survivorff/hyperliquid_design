@@ -124,8 +124,8 @@ docs/
 
 ## 更新计划
 
-- **Phase 1**（当前）：basics/ 全部 8 篇 + README
-- **Phase 2**：concepts/ 前 4 个目录（HyperBFT、订单簿、清算、Vault）
+- **Phase 1** ✅：basics/ 全部 8 篇 + README
+- **Phase 2** ✅：concepts/ 前 4 个目录（HyperBFT、订单簿、清算、Vault）
 - **Phase 3**：concepts/ 后 4 个目录（桥、API、HyperEVM、做市）
 - **Phase 4**：基于仓库内容写 blog + web3-insider 文章
 
